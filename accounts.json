@@ -1,0 +1,47 @@
+[
+    {
+        "gmail": {
+            "user": "clairecarlson734806",
+            "pass": "QWUQZlIwvg|clairecarlson7348023566@gmail.com",
+            "description": "Gmail | Pass | Recovery",
+            "link": "https://www.youtube.com/channel/UCHFFxS2sAQFh6evXmT8sumg"
+        },
+        "twitter": {
+            "user": "Carrollpp514418",
+            "pass": "loXsf3583|7KAP CKFG PLPJ DSPZ|balkeyvyrouzzoarx@hotmail.com|I8Fgvr74|http://twitter.com/@Carrollpp514418",
+            "description": "USERNAME | PASS | 2FA | MAIL | PASSMAIL | LINK PROFILE",
+            "link": "https://twitter.com/Carrollpp514418"
+        },
+        "telegram": {
+            "user": "924492901",
+            "pass": "",
+            "description": "xincamon + số điện thoại, https://drive.google.com/file/d/1F2-ufTDyYya9PxZ3SWjIOoM4hrZBRZtz/view?usp=sharing",
+            "link": "@MinniWebster"
+        },
+        "facebook": {
+            "user": "100076403287870",
+            "pass": "OOVhthanhhaoph888441|54HSQELJFDDB5UMBBWEX6A7QHQNEMIGW|c_user=100076403287870; xs=44:5CO6QMSkwgZ2KA:2:1640159410:-1:-1; fr=0AraYPshB8gchxA1R.AWUUcTtS5GqjTiv-5mLzZFE2yHc.Bhwtiy.6V.AAA.0.0.Bhwtiy.AWXgCIbFDXw; datr=odjCYc6vFIRcnGArqv2aAe_S; oo=|EAAAAUaZA8jlABACGH27ZAKbULmOUWZA3FyTABOTzZCeFPvw67W6iLiKaoMOIvzM6JNQ4iZAB3mRAUt9R3CawBKZCY1zDx22ujpNbbZCM8WNsX9QwyBgwrZCsSV1GR2S3ZBdpZBZBcsfftzKSC5q8KzK5yQAmLUr9efKb27TO7y0YAcZAsRfSKJxTOX8SNgYZCh54vQtMZD",
+            "description": "Cách đăng nhập: https://youtu.be/CCUWrUU3D1Y ĐỊNH DẠNG TÀI KHOẢN: ID|PASS|2FA|COOKIE|TOKEN(một số tài khoản sẽ được very thêm mail)",
+            "link": "https://www.facebook.com/profile.php?id=100076403287870"
+        },
+        "discord": {
+            "user": "donald.fitzgerald.253@mail.ru",
+            "pass": "VlAiZY2n9T7APt6|ngB$M7hAZPStx|397877603",
+            "description": "MAIL | PASS MAIL | PASS DISCORD | PHONE"
+        },
+        "instagram": {
+            "user": "MinhTueXuyen74097_",
+            "pass": "xxtutrnh7FCdNNIa|rur=\"EAG\\05450453209614\\0541672930813:01f7df91315b04bcd3a58eb9937ba0c31c4e02c7c0420f4699c4d88f217882fe0719078f\";sessionid=50453209614%3AdWH85J8pWyTkmf%3A11;csrftoken=k3tG5D34HSJ1VFAxIexnBOF0Jjpmq7bD;ig_nrcb=1;ds_user_id=50453209614;ig_did=7D398B16-700E-4837-BF6D-F82926732FA0;mid=YdWyZgALAAFR_PsXHMt5M22NOa66;",
+            "description": "name|pass|cookies",
+            "link": "https://www.instagram.com/minhtuexuyen74097_"
+        },
+        "metamask": {
+            "addr": "0xbd180E62F387fb65369dAbC497E49DA9024d97d0",
+            "seed phrase": "mandate have relax drastic expect caught upgrade office fat hammer vintage hole"
+        },
+        "phantoms": {
+            "addr": "HWS1TqEg2h97Ve2gsCnY3m53whB6cKeUkgvpDBHJqmyN",
+            "seed phrase": "mandate have relax drastic expect caught upgrade office fat hammer vintage hole"
+        }
+    }
+]
