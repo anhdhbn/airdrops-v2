@@ -61,8 +61,8 @@ class Base:
     def _log(self, log_:str, err=False):
         log(self.__class__.__name__, log_, err)
     
-    def _input(self, log_:str):
-        inputlog(self.__class__.__name__, log_)
+    def _input(self, log_:str) -> str:
+        return inputlog(self.__class__.__name__, log_)
 
     def run_script(self, chrome_browser: ChromeBrowser, account: dict, **kwargs):
         raise NotImplementedError

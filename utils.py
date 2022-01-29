@@ -10,7 +10,7 @@ def log(name:str, log_:str, err=False):
     
 def inputlog(name:str, log_:str):
     current = (datetime.utcnow() + timedelta(hours=7)).strftime('%Y-%m-%d %H:%M:%S')
-    input(f"{current} {name}: {log_}")
+    return input(f"{current} {name}: {log_}")
 
 def read_accounts(file_path: str = "accounts.json"):
     return json.load(open(file_path, 'r'))
